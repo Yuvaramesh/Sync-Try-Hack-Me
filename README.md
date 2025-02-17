@@ -1,1 +1,1 @@
-# Sync-Try-Hack-Me
+## Sync-Try-Hack-Me
